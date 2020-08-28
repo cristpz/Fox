@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
     return message.channel.send(
       "Please provide a valid number from 2-100."
     );
-  message.channel.bulkDelete(args[0]).then(() => {
+  message.channel.bulkDelete(args[0] + 1).then(() => {
     message.channel
       .send(`Cleared ${args[0]} messages.`)
       .then(msg => msg.delete(2000));
