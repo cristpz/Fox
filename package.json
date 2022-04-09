@@ -22,7 +22,7 @@
     "ffmpeg": "^0.0.4",
     "google": "^2.1.0",
     "mal-scraper": "^2.6.9",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.1",
