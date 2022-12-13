@@ -18,7 +18,7 @@
     "cheerio": "^1.0.0-rc.2",
     "dblapi.js": "^2.4.0",
     "discord.js": "^11.x",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg": "^0.0.4",
     "google": "^2.1.0",
     "mal-scraper": "^2.6.9",
